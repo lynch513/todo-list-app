@@ -1,6 +1,6 @@
-# Elmish Getting Started
+# Read Elmish book
 
-This is a simple Fable application including an [Elmish](https://elmish.github.io/) counter. The repository is made for learning purposes and the generated Javascript output is not optimized. That said, the template shows you how easy it is to get started with Fable and Elmish using minimal configuration.
+This is a simple todo app from [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book/#/). The repository is made for learning purposes and the generated Javascript output is not optimized. That said, the template shows you how easy it is to get started with Fable and Elmish using minimal configuration.
 
 ## Building and running the app
 
