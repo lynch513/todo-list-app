@@ -1,3 +1,7 @@
+# Elmish Todo application
+
+See application at [https://lynch513.github.io/todo-list-app/](https://lynch513.github.io/todo-list-app/)
+
 # Read Elmish book
 
 This is a simple todo app from [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book/#/). The repository is made for learning purposes and the generated Javascript output is not optimized. That said, the template shows you how easy it is to get started with Fable and Elmish using minimal configuration.
